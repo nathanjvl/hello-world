@@ -1,2 +1,5 @@
 # hello-world
-The code shall print "Hello world!"
+
+Hello all!
+
+My name is Nathan, and I'm a student learning to code. 
